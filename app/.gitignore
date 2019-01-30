@@ -3,6 +3,9 @@
 *.aab
 *.ap_
 
+# keystore
+# keystore.properties
+
 # files for the dex VM
 *.dex
 
